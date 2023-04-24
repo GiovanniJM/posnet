@@ -1,2 +1,3 @@
-# posnet
-file:///C:/Users/1dam/Downloads/ejercicio-integrador-POO-I-master/doc/allclasses-index.html
+La aplicación es un programa de prueba de una clase llamada "Posnet", la cual se encarga de procesar pagos mediante una tarjeta de crédito. El programa crea una instancia de la clase "Posnet" y luego crea una instancia de una tarjeta de crédito, a la cual se le realiza un pago. La tarjeta de crédito tiene información como la entidad bancaria, número de tarjeta, saldo disponible, entidad financiera y titular de la tarjeta. El programa verifica si la tarjeta tiene saldo disponible para el pago, y si es así, procede a descontar el monto del saldo disponible de la tarjeta. Además, se genera un ticket de pago que contiene información sobre el nombre y apellido del titular de la tarjeta, el monto total del pago y el monto por cuota en caso de haberse efectuado el pago en cuotas.
+
+En resumen, la funcionalidad de la aplicación es procesar pagos mediante una tarjeta de crédito y generar un ticket de pago con la información correspondiente.
